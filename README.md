@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @daidaiEbao  
-Currently, I am working in Xiaomi. 
+- 👋 Hi, I’m @daidaiEbao   
 - 😁 Slowly enjoying ~
 
 <!---
