@@ -2,7 +2,7 @@
 An M.S. student in Software Engineering in SEU, CN. 
 
 ### doings
-Nowadays, I am working in Calix Inc. as an engineering intern. 
+Learnning for jobs in Autumn 2025. 
 
 <!---
 daidaiEbao/daidaiEbao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
